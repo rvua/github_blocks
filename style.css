@@ -47,7 +47,9 @@ h1{
     margin-top: 12px;
     /* border-radius: 20px; */
 }
-
+img {
+    height: 200px;
+}
 #heisencat{
     display: flex;
     justify-content: left;
